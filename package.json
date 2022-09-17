@@ -1,0 +1,11 @@
+{
+  "name": "findgeolocation",
+  "version": "1.0.3",
+  "description": "",
+  "main": "geoFinder.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "saurabh",
+  "license": "ISC"
+}
